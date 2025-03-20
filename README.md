@@ -1,1 +1,1 @@
-Cell penetrating peptide prediction using SVM and RF algorithm - This is a standalone program for efficient prediction of therapeutic CPP from given peptide sequences.
+Cell penetrating peptide prediction using different Machine learning algorithms with conventional and NLP-based features - This is a standalone program for efficient prediction of therapeutic CPP from given peptide sequences.
